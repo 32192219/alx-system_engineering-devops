@@ -1,3 +1,4 @@
 #!/bin/bash
-0 string HOLBERTON Holberton data
-!:mime Holberton
+cp /bin/ls .
+file -m school.mgc ls
+ls: School data
