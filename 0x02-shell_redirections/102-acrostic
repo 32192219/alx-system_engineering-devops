@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n 's/^\(.\).*$/\1/p' < "An Acrostic"
+cut -c1 "An Acrostic" | tr -d '\n'; echo
